@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://amzn.com/dp/B002Z8E52Y/?tag=zictemp-20' target='_blank'><img src='http://www.pressurewasherguides.com/wp-content/uploads/2015/11/best-electric-pressure-washer.png' width='500px'/>Price:  $153.51 & FREE Shipping. You Save: $45.49 (23%) </a><h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.pressurewasherguides.com/' target='_blank'><img src='http://www.pressurewasherguides.com/wp-content/uploads/2015/11/best-electric-pressure-washer.png' width='500px'/>Best Pressure Washer</a><h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });

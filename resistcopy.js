@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>Vao day de copy : <a href='http://www.vnmachine.com/</a>";
+    var pagelink = "<br/><br/>See all articles at: http://www.reverseosmosisguides.com/";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
